@@ -1,0 +1,3 @@
+title=IIMT
+author=shashwat
+orientation=portrait
